@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+A git clone is a copy of a respository into a new directory.  For example, this could be a copy from someone else's github to my local computer.  
