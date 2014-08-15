@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is an independent piece of development.  Branches allow people to work on their own piece of a project, and then push their development back to the main project.  
